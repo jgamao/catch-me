@@ -1,0 +1,6 @@
+build/
+sdk
+raw/
+*~
+*.sublime*
+modules/
