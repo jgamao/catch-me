@@ -37,6 +37,7 @@ exports = Class(GC.Application, function() {
 
         titleScreen.on('game:start', bind(this, function () {
             stackView.push(gameScreen)
+            gameScreen.emit('game:start');
         }));
 
         gameScreen.on('game:end', bind(this, function () {

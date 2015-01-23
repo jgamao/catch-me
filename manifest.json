@@ -10,8 +10,7 @@
     "stagingDomain": "staging.example.com"
   },
   "supportedOrientations": [
-    "portrait",
     "landscape"
   ],
-  "title": "catchme"
+  "title": "Catch Me Im Falling 2"
 }
